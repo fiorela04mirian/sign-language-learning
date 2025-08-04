@@ -2,6 +2,37 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 📚 Módulos del Sistema de Aprendizaje
+
+A continuación se presentan los módulos desarrollados en este sistema educativo. Cada módulo está diseñado para reforzar el aprendizaje de distintos componentes del Lenguaje de Señas a través de la práctica interactiva.
+
+---
+
+### 🔤 Módulo 1: Abecedario
+
+Este módulo permite al estudiante aprender y practicar el abecedario en Lengua de Señas. Se incluyen ejercicios interactivos y retroalimentación automática.
+
+#### 🖼️ Capturas
+
+![Módulo de práctica de abecedario](screenshots/practica-Abecedario.png)
+![Vista general del módulo de aprendizaje](screenshots/aprendizaje-modulos.png)
+
+---
+
+### 🔢 Módulo 2: Números
+
+Permite al usuario aprender los números en lengua de señas a través de una interfaz intuitiva. Incluye pruebas para validar el aprendizaje.
+
+![Módulo de práctica de números](screenshots/practica-numeros.png)
+
+---
+
+### 👩‍⚕️ Módulo 3: Profesiones
+
+Orienta al estudiante en el aprendizaje de vocabulario relacionado con profesiones. Ideal para contextos cotidianos y laborales.
+
+![Módulo de profesiones](screenshots/modulo-profesiones.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
